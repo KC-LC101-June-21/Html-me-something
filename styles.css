@@ -1,1 +1,5 @@
 /* Write your CSS here! */
+#mainHeading {
+    padding: 20px;
+    color: red;
+}
