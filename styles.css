@@ -1,5 +1,13 @@
 /* Write your CSS here! */
+body {
+    margin:8px
+}
+
 #mainHeading {
-    padding: 20px;
     color: red;
 }
+
+.funParagraph{
+    color: green
+}
+
